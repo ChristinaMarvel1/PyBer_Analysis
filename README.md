@@ -1,5 +1,5 @@
 # PyBer_Analysis
-# Deliverable 1: A ride-sharing summary DataFrame by city type
+## Deliverable 1: A ride-sharing summary DataFrame by city type
 Using the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns, get the total number of rides, total number of drivers, and the total fares for each city type. Then, calculate the average fare per ride and average fare per driver for each city type. Finally, add this data to a new DataFrame, then format the columns.
 
  - Download the PyBer_Challenge_starter_code.ipynb file into your PyBer_Analysis folder and rename it PyBer_Challenge.ipynb.
@@ -17,7 +17,7 @@ The unformatted PyBer summary DataFrame showing the “Total Rides,” “Total 
 The formatted summary DataFrame showing the “Total Rides,” “Total Drivers,” “Total Fares,” “Average Fare per Ride,” and “Average Fare per Driver” by city type
 
 
-# Deliverable 2 : Using your Pandas skills and two new functions, pivot() andresample(), create a multiple-line graph that shows the total fares for each week by city type.
+## Deliverable 2 : Using your Pandas skills and two new functions, pivot() andresample(), create a multiple-line graph that shows the total fares for each week by city type.
 
  - Use the step-by-step instructions below to add code where indicated by the numbered comments in the starter code file:
 
@@ -40,8 +40,7 @@ Confirm that your multiple-line chart looks like the following image, where each
 The average weekly fare for each city from January 1, 2019 to April 28, 2019.
 
 
-Deliverable 3 Instructions
-Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
+## Deliverable 3 : Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
 
 The analysis should contain the following:
 
