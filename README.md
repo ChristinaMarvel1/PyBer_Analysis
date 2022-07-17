@@ -71,6 +71,8 @@ The formatted summary DataFrame showing the “Total Rides,” “Total Drivers,
 Confirm that your multiple-line chart looks like the following image, where each week is a peak or dip in the line graphs.
 The average weekly fare for each city from January 1, 2019 to April 28, 2019.
 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/107659667/179427380-d31b646e-f45a-4102-afd0-f5937dce8ca3.png)
+
 
 ## Deliverable 3 : Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
 
