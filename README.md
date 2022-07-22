@@ -78,27 +78,34 @@ The average weekly fare for each city from January 1, 2019 to April 28, 2019.
 
 The analysis should contain the following:
 
-Overview of the analysis: Explain the purpose of the new analysis.
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+Overview of the analysis: The purpose of the new analysis is to see the percentage of the total fares, total rides, and total drivers by city type. This will show us how active each city types are.
+
+
+*Results*
 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/107659667/180354024-36dcb5ba-7449-4085-87a8-1eb90d2be8f5.png)
 
 
+Here we have the Total Fares by city type line graph that we pulled from the last exercise. We see here that the Urban city type pulled the most fares during 2019. After that, it was suburban city types, and the rural city types pulled in the lowest amount of total fares. It also seems like all the ride spiked near the end of Februrary.
+
+
 ![Fig5](https://user-images.githubusercontent.com/107659667/180354135-495073d4-1573-4838-b4fa-0dcd3325eccc.png)
 
-
+In this pie chart, we see that the percentage of Urban fares consisted of 62.7%, the next was Suburban fares at 30.5%, and then Rural city types only pulled in 6.8% of total fares.  
 
 ![Fig6](https://user-images.githubusercontent.com/107659667/180354145-0d9035c1-2f96-4441-ac4f-6df634d4e104.png)
 
+In this pie chart, we see that the percentage of Total rides consisted of 68.4%, the next was Suburban rides at 26.3%, and then Rural city types only pulled in 5.3% of total rides. 
 
 ![Fig7](https://user-images.githubusercontent.com/107659667/180354153-370ae25f-c08d-401c-be3a-b997bcfd8b28.png)
 
+In this pie chart, we see that the percentage of Total drivers consisted of 80.9%, the next was Suburban drivers at 16.5%, and then Rural city types only pulled in 2.6% of total drivers. 
 
 ![Fig1](https://user-images.githubusercontent.com/107659667/180354173-86669c5c-1f98-4b86-bd3c-caa2db7d000f.png)
 
+Here is a maps plotting the Total number of rides (per city type) versus the Average Fare. We see here that while the Rural cities had much less rides, they had much higher fares. This could definately be from the longer distance per ride that would be needed for rural communities.
 
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
-
-Three business recommendations to the CEO for addressing any disparities among the city types. 
+While the rural cities had the highest fares, they had the least amount of rides, which would account for needing less drivers. I do see that while 68.4% of rides were in urban cities, 80.9% of drivers were from there. This would mean that the urban drivers would be getting less per ride than their subirban and rural counterparts. I could see a high turnover of drivers as a result of this. The CEO might think about rasing the rates in the urban areas to keep the drivers satfied with their total fares. The CEO might also want to look as having suburban and rural city types share drivers to even out the advantages of the higher rural fares. This might help with keeping more drivers. Lastly, if the CEO would like to boost sales in rural areas, they might want to advertize more or even start out with an incentive program to get more rural rides. Since the rural areas require longer distances and thus, higher fares, there is an untapped profit waiting to be had in these areas. 
